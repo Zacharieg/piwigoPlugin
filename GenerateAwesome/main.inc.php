@@ -19,6 +19,7 @@ include_once(GENERATEAWESOME_PATH . 'GeneratedByDAO.php');
 include_once(GENERATEAWESOME_PATH . 'addField.php');
 
 //Generate modifications by single and by global
+include_once(GENERATEAWESOME_PATH . 'modify.php');
 include_once(GENERATEAWESOME_PATH . 'batch_single.php');
 include_once(GENERATEAWESOME_PATH . 'batch_global.php');
 ?>
